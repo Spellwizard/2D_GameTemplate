@@ -1,0 +1,6 @@
+objWidth=1
+objHeight=1
+UpModel=ore_picture.jpg
+DownModel=ore_picture.jpg
+LeftModel=ore_picture.jpg
+RightModel=ore_picture.jpg
